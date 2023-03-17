@@ -1,8 +1,8 @@
-## pingpong Game
+## Ping-pong Game
 
 This is a pingpong Game based on C and under Linux system
 
-#### Technology
+## Technology stack
 
 curses.h
 
@@ -12,9 +12,9 @@ signal.h
 
 sys/socket.h
 
-#### screen shot
+## Screen shot
 
-![](./Screenshot from 2020-01-11 20-42-39.png)
+![](./Screenshot.png)
 
 
 
